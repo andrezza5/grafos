@@ -1,0 +1,8 @@
+Grafos no contexto tecnologico
+
+Utilizar grafos é de grande utilidade, é definido por um conjunto de nós ou vértices, e pelas ligações ou arestas, que ligam pares de nós. Uma grande variedade de estruturas do mundo real podem ser representadas abstratamente através de grafos. Segue abaixo dois exemplos em que utilizamos os grafos:
+
+1 - No Grafo direcionado, cada arco tem um nó de origem e um nó de chegada. O exemplo típico é o das redes de estradas, uma vez que existem estradas só com um sentido seria o caos se um GPS não soubesse distingui-las.
+
+2 - As linhas de metro das grandes cidades utilizam grafos de modo a minimizarem o tempo das ligações.
+
